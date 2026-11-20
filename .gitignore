@@ -1,0 +1,7 @@
+.venv/
+cwru/
+aircomp/
+aircomp.zip
+*.part
+__pycache__/
+.ipynb_checkpoints/
