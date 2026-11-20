@@ -35,7 +35,7 @@ Powerlooms, flour mills, pump sets and small machine shops run **ageing machines
 | 📱 **Sense** | A low-cost Android phone captures the machine's **vibration** (accelerometer) and **sound** (microphone). No extra hardware is needed. |
 | 🧠 **Learn normal** | An unsupervised autoencoder learns *that specific machine's* healthy signature. **No fault labels are required.** |
 | 📉 **Detect drift** | The on-device model scores machine health continuously and raises an alert only on **sustained** drift, not one-off spikes. |
-| 🤖 **Act (Agentic AI)** | An AI agent explains the issue by **voice in Tamil or Kannada**, suggests a repair window and, **with the owner's approval**, alerts the technician and checks spare-part availability. |
+| 🤖 **Act (Agentic AI)** | An AI agent explains the issue by **voice in English, Tamil or Kannada**, suggests a repair window and, **with the owner's approval**, alerts the technician and checks spare-part availability. |
 
 ## 📊 Proof-of-Concept Results
 
