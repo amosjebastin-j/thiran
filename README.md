@@ -134,7 +134,7 @@ flowchart LR
 
 - [x] Core anomaly detector validated on vibration and sound benchmarks, plus a noise stress test
 - [ ] Android app with live on-device inference (TensorFlow Lite / ExecuTorch)
-- [ ] Agent layer (Lyzr AI) with WhatsApp/SMS and Tamil/Kannada voice
+- [ ] Agent layer (Lyzr AI) with WhatsApp/SMS and English, Tamil/Kannada voice
 - [ ] Live demo rig with induced machine faults
 - [ ] Field pilot with small factories in Tamil Nadu
 - [ ] Tier-2 "Thiran Clip": ~₹400 ESP32 + MEMS vibration sensor for 24/7 monitoring of critical machines
