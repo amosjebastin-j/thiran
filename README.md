@@ -119,7 +119,7 @@ flowchart LR
 
 - **Low-cost phones:** start with zero hardware; add the optional ₹400 clip only where it pays
 - **Offline-first:** detection runs on the device; agent actions sync when connectivity returns, with an SMS fallback
-- **Voice-first:** alerts in Tamil and Kannada for low-literacy users
+- **Voice-first:** alerts in English,Tamil or Kannada for low-literacy users
 - **No labelled data:** learns each machine's own normal behaviour
 - **Owner in control:** the decision to stop production always stays with the owner
 
